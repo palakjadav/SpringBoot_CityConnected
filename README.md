@@ -42,7 +42,7 @@ http://localhost:8080/connected?origin=Boston&destination=Newark
 
 Should return yes
 
-http://localhost:8080/connected?origin=Boston&destination= Philadelphia
+http://localhost:8080/connected?origin=Boston&destination=Philadelphia
 
 Should return yes
 
