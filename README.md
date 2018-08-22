@@ -1,4 +1,4 @@
-Coding Exercise
+##Coding Exercise
 
 You’re asked to write a program in Java 8 which determines if two cities are connected.
 
@@ -51,7 +51,7 @@ http://localhost:8080/connected?origin=Philadelphia&destination=Albany
 Should return no
 
 
-How to Execute
+##How to Execute
 
 
 Prerequisites:
